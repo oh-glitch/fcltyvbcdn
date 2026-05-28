@@ -182,6 +182,12 @@ http://localhost:3000
 ---
 
 # Core Features
+<img width="1436" height="810" alt="image" src="https://github.com/user-attachments/assets/199152d3-a5e6-4775-8a32-bdf98ab4fc0c" />
+
+<img width="1436" height="810" alt="image" src="https://github.com/user-attachments/assets/b08d2475-7e2f-4944-b6f2-f3a6f7204987" />
+
+
+
 
 ## AI Chat Assistant
 
