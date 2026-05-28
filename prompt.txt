@@ -1,0 +1,156 @@
+You are a senior full-stack engineer helping me build a beginner-friendly AI-powered facility management platform.
+
+IMPORTANT RULES:
+- Keep everything SIMPLE and beginner friendly.
+- Do NOT overengineer.
+- Do NOT use microservices.
+- Do NOT use Kubernetes.
+- Do NOT use advanced architecture patterns.
+- Explain every major file you create.
+- Prefer readable code over clever code.
+- Use TypeScript everywhere.
+- Use modern best practices.
+- Build incrementally in small steps.
+- After each step, explain how to run and test it.
+
+TECH STACK:
+Frontend:
+- Next.js 15
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Vercel AI SDK
+
+Backend:
+- Next.js API routes only
+- No separate backend initially
+
+Database:
+- Supabase PostgreSQL
+
+AI:
+- OpenAI API
+- RAG-based document retrieval
+
+File Storage:
+- Supabase Storage
+
+Auth:
+- Clerk
+
+GOAL:
+Build an AI assistant for commercial real estate and facility management.
+
+FEATURES:
+- Upload lease agreements and maintenance PDFs
+- Extract and store document text
+- Chat with uploaded documents
+- Semantic search using embeddings
+- AI assistant answers questions about leases and facilities
+- Admin dashboard
+- Real-time streaming chat UI
+- Source citations for answers
+- Basic telemetry and logging
+
+PROJECT REQUIREMENTS:
+1. Create a clean folder structure.
+2. Use App Router.
+3. Use server actions when appropriate.
+4. Use environment variables correctly.
+5. Add loading and error states everywhere.
+6. Use responsive design.
+7. Use reusable components.
+8. Keep UI modern and minimal.
+
+FIRST TASK:
+Create the initial project structure with:
+- homepage
+- sidebar layout
+- AI chat interface
+- dark mode
+- responsive design
+- shadcn components
+- placeholder chat messages
+- clean architecture
+
+Then explain:
+- folder structure
+- what each file does
+- how to run the app locally
+- what to build next
+
+DO NOT BUILD EVERYTHING AT ONCE.
+ONLY COMPLETE THE CURRENT STEP.
+WAIT FOR MY NEXT INSTRUCTION BEFORE CONTINUING.
+
+
+
+
+Build a ChatGPT-style chat interface.
+
+Requirements:
+- streaming message layout
+- user and assistant message bubbles
+- markdown rendering
+- loading animation
+- sidebar for conversations
+- mobile responsive
+- dark mode
+- use shadcn/ui only
+- clean modern UI
+
+Explain all files created.
+
+
+Add a streaming AI chat API using Vercel AI SDK and OpenAI.
+
+Requirements:
+- API route
+- environment variable setup
+- streaming responses
+- error handling
+- typing indicator
+- simple chat memory
+
+Explain:
+- how streaming works
+- where API keys go
+- how to test locally
+
+
+Add a PDF upload system.
+
+Requirements:
+- drag and drop upload
+- upload to Supabase Storage
+- file validation
+- upload progress
+- store metadata in PostgreSQL
+- modern UI
+- error handling
+
+Explain every step clearly for beginners.
+
+Implement a simple RAG system.
+
+Requirements:
+- generate embeddings using OpenAI
+- store embeddings in pgvector
+- semantic similarity search
+- retrieve relevant chunks
+- inject chunks into AI prompt
+- cite document sources in responses
+
+Keep architecture simple and beginner friendly.
+
+Build a simple admin dashboard.
+
+Include:
+- uploaded documents
+- chat analytics
+- token usage
+- recent conversations
+- system status
+- responsive cards and charts
+
+Use shadcn/ui components.
