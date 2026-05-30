@@ -186,6 +186,12 @@ http://localhost:3000
 
 <img width="1436" height="810" alt="image" src="https://github.com/user-attachments/assets/b08d2475-7e2f-4944-b6f2-f3a6f7204987" />
 
+<img width="1912" height="1104" alt="image" src="https://github.com/user-attachments/assets/fcb76fca-6058-4dd3-9c2a-59cae628c2f9" />
+
+<img width="1912" height="1104" alt="image" src="https://github.com/user-attachments/assets/c8ba0c64-61ed-4535-8ae9-34253c65d47b" />
+
+
+
 
 
 
